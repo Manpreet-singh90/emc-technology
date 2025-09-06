@@ -24,8 +24,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-    title: "Housa - Real Esate Next.js Template",
-    description: "Made by AliThemes",
+    title: "EMC Technology",
+    description: "Made by Manpreet singh",
     icons: {
         icon: [
             { url: '/assets/img/logo/favicon.png' },

@@ -26,9 +26,10 @@ Housa is a modern real estate web application built with Next.js, designed for p
 
 ## Author
 
-Developed by [AliThemes](https://alithemes.com/)
+Developed by [Manpreet Singh](https://manpreet-singh.vercel.app/)
 
 ---
 
 For installation and usage instructions, please refer to the documentation or contact the author.
+
 # emc-technology
